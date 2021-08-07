@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="docs/favicon.ico">
+
 ![BLEND-OS Logo](https://reoccur.tech/assets/blend-os.png)
 
 BLEND-OS is an operating system inspired by the anime [**BLEND-S**](https://beta.crunchyroll.com/series/GYJQ430W6/blend-s).
