@@ -18,4 +18,4 @@ BLEND-OS is an operating system inspired by the anime [**BLEND-S**](https://beta
 
 ### Downloads
 
-Coming soon!
+Coming soon! It actually is lol, I have the technology to make it now.
